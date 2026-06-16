@@ -3,7 +3,7 @@ Tourists struggle to find the best hotels and attractions due to overwhelming on
 
 
 ## Technologies Used 
--React: The core JavaScript library for building the user interface./n
+-React: The core JavaScript library for building the user interface.
 -React Context API: Handles global state management (sharing data between components without prop-drilling).
 -React Hooks (useState, useEffect): Manages local data states and triggers actions (like API calls) automatically.
 -Axios: A library used to make HTTP requests to the server and handle request cancellation.
