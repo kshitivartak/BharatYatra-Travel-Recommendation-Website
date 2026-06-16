@@ -2,6 +2,15 @@
 Tourists struggle to find the best hotels and attractions due to overwhelming online information, making travel planning difficult. Our app simplifies this process by providing an easy-to-use platform to quickly discover and compare nearby places and accommodations.
 
 
+## Technologies Used 
+React: The core JavaScript library for building the user interface.
+React Context API: Handles global state management (sharing data between components without prop-drilling).
+React Hooks (useState, useEffect): Manages local data states and triggers actions (like API calls) automatically.
+Axios: A library used to make HTTP requests to the server and handle request cancellation.
+Travel Advisor API: The external data source providing information on hotels, restaurants, and attractions.
+Browser Geolocation API: Accesses the device's GPS to find the user's current latitude and longitude.
+JavaScript (ES6+): Uses modern features like Arrow Functions, Destructuring, and Optional Chaining.
+
 ## Data Collection Methods
 To ensure the content is relevant and helpful, we collected data through a Google Form survey, which allowed us to gather insights directly from travellers and locals. The survey covered various aspects, such as popular tourist spots, difficulties faced while travelling, preferred travel styles, and recommendations for accommodations. This data-driven approach ensures that our website meets the needs of tourists by offering tailored suggestions and up-to-date information for an enriching travel experience.
 
